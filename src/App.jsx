@@ -1,7 +1,7 @@
 import {useState} from 'react'
 import Title from './Title'
 import items from './data';
-import Menu from './menu';
+import Menu from './Menu';
 import Categories from './Categories';
 
 
